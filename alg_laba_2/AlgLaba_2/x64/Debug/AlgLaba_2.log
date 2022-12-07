@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Maxim\source\repos\AlgLaba_2\AlgLaba_2\Source.cpp(76,29): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+  AlgLaba_2.vcxproj -> C:\Users\Maxim\source\repos\AlgLaba_2\x64\Debug\AlgLaba_2.exe
